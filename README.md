@@ -7,3 +7,6 @@ https://learndataanalysis.org/how-to-download-photos-from-google-photos-in-pytho
 ## Running
 Configure pip envirnment:
 pip install -r requirements.txt
+
+## Display
+https://www.instructables.com/Easy-Raspberry-Pi-Based-ScreensaverSlideshow-for-E/
